@@ -6,7 +6,7 @@ This repository contains code to reproduce the following finding, featured in th
 
 ## Source Data
 
-The main data source for this piece was a [map of siren locations, decibels, and ranges](https://www.mauisirens.com/) published by the Maui Emergency Management Agency (MEMA). We extracted the data from by discovering the API that populated the map.  
+The main data source for this piece was a [map of siren locations, decibels, and ranges](https://www.mauisirens.com/) published by the Maui Emergency Management Agency (MEMA). We extracted the data from discovering the API that populated the map.  
 
 We also used information from a map of the estimated damage that MEMA [released August 12th](https://www.mauicounty.gov/CivicAlerts.aspx?AID=12683). This file is saved at [mema--damage_assessment_map.jpeg](data/source/mema--damage_assessment_map.jpeg).
 
