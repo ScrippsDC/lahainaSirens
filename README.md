@@ -28,7 +28,7 @@ The analysis for this piece is in the file [analysis.ipynb](analysis.ipynb). We 
 * [maui_sirens--coord_map.geojson](data/processed/maui_sirens--coord_map.geojson)
 * [maui_sirens--buffer.geojson](data/processed/maui_sirens--buffer.geojson)
 
-We filter both of these down to the sirens classified as 'near_bp', plot with a basemap and [burn_perimeter.geojson](data/manual/burn_perimeter.geojson).
+We filter both of these down to the sirens classified as 'near_bp' and then plot with a basemap and [burn_perimeter.geojson](data/manual/burn_perimeter.geojson).
 
 ![Map of findings](data/export/finding_map.png)
 
